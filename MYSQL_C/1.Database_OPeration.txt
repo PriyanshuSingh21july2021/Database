@@ -1,0 +1,21 @@
+Q.Create database 
+CREATE DATABASE my_databaseNAme;
+
+Q.how all database
+SHOW DATABASES;
+
+Q.DROP Database:
+DROP DATABASE my_database;
+
+
+Q.RENAME Database: 
+
+Q.SELECT Database:
+USE my_databaseName;
+SELECT * FROM my_table;
+
+
+Q.How can use database one ythan one
+USE my_databaseNAme;
+
+(*****)

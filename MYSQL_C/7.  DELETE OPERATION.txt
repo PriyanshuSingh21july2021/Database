@@ -1,0 +1,17 @@
+/*    DELETE A PARTICULAR RECORD         */
+DELETE FROM  table_name
+WHERE first_name ="Robert" and last_name="Willam";
+
+
+
+*******************************************************************************************************************
+
+/*    DELETE ALL TABLE        */
+DELETE FROM table_name;
+
+
+*******************************************************************************************************************
+
+Q.delete data in database
+  delete from table_name
+  where id=1;

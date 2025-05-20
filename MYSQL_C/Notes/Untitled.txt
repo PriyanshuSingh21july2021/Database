@@ -1,0 +1,44 @@
+
+SQL Basics:
+Data Definition Language (DDL): CREATE, ALTER, DROP commands.
+Data Manipulation Language (DML): SELECT, INSERT, UPDATE, DELETE commands.
+Data Control Language (DCL): GRANT, REVOKE commands.
+Transaction Control Language (TCL): COMMIT, ROLLBACK commands.
+Database Design:
+Entity-Relationship (ER) Modeling.
+Normalization: 1NF, 2NF, 3NF, BCNF, etc.
+Denormalization.
+Querying Data:
+Retrieving Data: SELECT statement, WHERE clause, ORDER BY clause.
+Filtering and Sorting Data.
+Joins: INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN, CROSS JOIN.
+Aggregation Functions: COUNT, SUM, AVG, MIN, MAX, GROUP BY, HAVING.
+Advanced SQL:
+Subqueries: Nested Queries, Correlated Subqueries.
+Set Operations: UNION, INTERSECT, EXCEPT.
+Window Functions: ROW_NUMBER(), RANK(), DENSE_RANK(), etc.
+Common Table Expressions (CTEs).
+Recursive Queries.
+Database Administration:
+User Management: CREATE USER, DROP USER, ALTER USER.
+Privilege Management: GRANT, REVOKE.
+Backup and Recovery.
+Indexes and Performance Optimization:
+Indexes: Types of indexes, Index creation, Index optimization.
+Query Optimization: Understanding Execution Plans, Query Tuning.
+Transactions and Concurrency Control:
+ACID Properties (Atomicity, Consistency, Isolation, Durability).
+Transaction Management: BEGIN TRANSACTION, COMMIT, ROLLBACK.
+Isolation Levels.
+Stored Procedures, Functions, and Triggers:
+Creating and Managing Stored Procedures.
+User-Defined Functions (UDFs).
+Triggers: BEFORE and AFTER Triggers.
+Security:
+Authentication and Authorization.
+SQL Injection Prevention.
+Encryption and Data Protection.
+Advanced Database Concepts:
+Replication.
+Sharding and Partitioning.
+NoSQL Databases.S

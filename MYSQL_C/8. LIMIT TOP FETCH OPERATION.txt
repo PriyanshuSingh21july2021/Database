@@ -1,0 +1,15 @@
+/*       LIMIT OPERATION            */
+SELECT  * FROM Customers limit 3 ;
+SELECT  * FROM Customers where first_name	like "J%" ;
+SELECT  * FROM Customers where age>=25 limit 3;
+
+/*        FETCH OPERATION        */
+
+*******************************************************************************************************************
+Q.Acess Limited data in a table
+
+SELECT  * FROM Customers
+where age>=25 limit 3;
+
+
+Select from table_name limit 2;
