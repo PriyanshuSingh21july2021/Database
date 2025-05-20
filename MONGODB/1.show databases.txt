@@ -1,0 +1,28 @@
+
+
+Q.show databases
+Ans :  It allows you to see a list of all databases available on your MongoDB 
+
+Query :-show databases / show dbs
+Priyanshu  72.00 KiB
+admin      40.00 KiB
+config     72.00 KiB
+local      40.00 KiB
+student    40.00 KiB
+Then: use database name
+
+show dbs
+Query: show dbs
+Priyanshu   72.00 KiB
+STUDENT      8.00 KiB
+admin       40.00 KiB
+config     108.00 KiB
+local       40.00 KiB
+
+Q.Show collection
+Query: show collection
+Then : use collectionname
+
+
+
+(*****)

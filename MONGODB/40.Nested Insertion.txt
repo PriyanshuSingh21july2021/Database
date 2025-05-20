@@ -1,0 +1,27 @@
+Q.Nested insert
+Query:
+db.details.insertOne({
+    personal: {
+        name: "John",
+        age: 30,
+        email: "john@example.com",
+        address: {
+            street: "123 Main St",
+            city: "Anytown",
+            country: "Country"
+        }
+    },
+    academic: {
+        student_id: "123456",
+        school: "University XYZ",
+        degree: "Computer Science",
+        graduation_year: 2023
+    },
+    work: {
+        employee_id: "7890",
+        company: "Tech Corp",
+        position: "Software Engineer",
+        start_date: new Date("2022-01-01"),
+        salary: 80000
+    }
+});

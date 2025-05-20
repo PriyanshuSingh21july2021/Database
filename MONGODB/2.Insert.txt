@@ -1,0 +1,9 @@
+2.Insert
+
+db.collectionname.insert({State: "Bihar", Marks: 500})
+
+Or 
+
+db.people.save({name: 'Tom', age: 28});
+
+(******)
